@@ -6,3 +6,4 @@ GIT Command
 5. Git commit -m "Text Comment"
 6. GIT push - 
 7. git log - untuk tau history
+****
