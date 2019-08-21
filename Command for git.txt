@@ -1,0 +1,8 @@
+GIT Command 
+1. GIT clone ------copy link
+2. Git status --tgk fail ape yang berubah
+3. GIT add . (add semua fila yang berubah)
+4. Git add namafile1 namafile2 namafile3 
+5. Git commit -m "Text Comment"
+6. GIT push - 
+7. git log - untuk tau history
